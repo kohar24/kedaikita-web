@@ -1,4 +1,6 @@
-# KedaiKita Web - versi lokal
+<<<<<<< HEAD
+
+# KedaiKita Web
 
 ## Identitas
 
